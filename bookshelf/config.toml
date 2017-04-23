@@ -82,22 +82,18 @@ googleAnalytics = ""
 
     # Aside section
 	[params.aside]
-		headline = "Check out my services!"
+		headline = "TODO headline"
 
 		[params.aside.button]
-			text = "Visit my Github!"
-			link = "https://github.com/blake417"
-
-		#[params.aside.button]
-			#text = "Visit my LinkedIn!"
-			#link = "https://www.linkedin.com/in/blake-d-larson/"
+			text = "TODO"
+			link = ""
 
 
 	# Contact section
 	[params.contact]
-		headline = "Questions or Inquires?"
+		headline = "Want to get in touch?"
 		description = "TODO"
-		phone = "(253) 370-1686"
+		resume = "TODO"
 		email = "blake7@hawaii.edu"
 
 	# Google Maps section
