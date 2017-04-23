@@ -65,7 +65,7 @@ googleAnalytics = ""
 
         [[params.services.list]]
 			icon = "fa-linkedin-square"
-			title = "LinkedIn"
+			text = "LinkedIn"
 			description = "https://www.linkedin.com/in/blake-d-larson/"
 
 		[[params.services.list]]
