@@ -61,11 +61,14 @@ googleAnalytics = ""
             icon = "fa-github"
             title = "Github"
             description = "Our templates are updated regularly so they don't break."
+			link = "https://github.com/blake417"
+
 
         [[params.services.list]]
-			icon = "fa-paper-plane"
+			icon = "fa-linkedin-square"
 			title = "Ready to Ship"
 			description = "You can use this theme as is, or you can make changes!"
+			link = "https://www.linkedin.com/in/blake-d-larson/"
 
 		[[params.services.list]]
             icon = "fa-newspaper-o"
