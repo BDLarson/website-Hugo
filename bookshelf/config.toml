@@ -60,26 +60,30 @@ googleAnalytics = ""
         [[params.services.list]]
             icon = "fa-github"
             text = "Github"
-			#title = "Github"
-            #link = "https://github.com/blake417"
-			description = "Blah Blah"
+			title = "Github"
+            link = "https://github.com/blake417"
+			#description = "Blah Blah"
 
         [[params.services.list]]
 			icon = "fa-linkedin-square"
 			text = "LinkedIn"
-			#title = "LinkedIn"
-			#link = "https://www.linkedin.com/in/blake-d-larson/"
-			description = "Blah Blah"
+			title = "LinkedIn"
+			link = "https://www.linkedin.com/in/blake-d-larson/"
+			#description = "Blah Blah"
 
 		[[params.services.list]]
             icon = "fa-newspaper-o"
+			text = "LinkedIn"
             title = "Up to Date"
-            description = "We update dependencies to keep things fresh."
+			link = "https://www.linkedin.com/in/blake-d-larson/"
+            #description = "We update dependencies to keep things fresh."
 
         [[params.services.list]]
             icon = "fa-heart"
+			text = "LinkedIn"
             title = "Made with Love"
-            description = "You have to make your websites with love these days!"
+			link = "https://www.linkedin.com/in/blake-d-larson/"
+            #description = "You have to make your websites with love these days!"
 
 
     # Portfolio modals
