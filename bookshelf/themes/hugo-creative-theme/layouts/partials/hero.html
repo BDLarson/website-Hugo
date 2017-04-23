@@ -7,7 +7,7 @@
                     h1{
                         color: #331A00;
                     }
-                    p{
+                    h3{
                         color: #331A00;
                     }
                 </style>
@@ -19,7 +19,7 @@
                 <hr>
             {{ end }}
             {{ with .Site.Params.hero.subtitle }}
-                <p>{{ . | markdownify }}</p>
+                <h3>{{ . | markdownify }}</h3>
             {{ end }}
             {{ with .Site.Params.hero.buttonText }}
                 <a href="#about" class="btn btn-primary btn-xl page-scroll">{{ . }}</a>
