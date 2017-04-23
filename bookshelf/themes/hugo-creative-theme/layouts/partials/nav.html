@@ -21,9 +21,9 @@
                         <a class="page-scroll" href="#about">{{ .Site.Params.navigation.links.about }}</a>
                     </li>
                 {{ end }}
-                {{ if and .Site.Params.services.list .Site.Params.navigation.links.services }}
+                {{ if and .Site.Params.media.list .Site.Params.navigation.links.media }}
                     <li>
-                        <a class="page-scroll" href="#services">{{ .Site.Params.navigation.links.services }}</a>
+                        <a class="page-scroll" href="#media">{{ .Site.Params.navigation.links.media }}</a>
                     </li>
                 {{ end }}
                 {{ if and .Site.Data.projects .Site.Params.navigation.links.portfolio }}
