@@ -17,7 +17,7 @@
                 <div class="service-box">
                     <i class="fa fa-4x {{ .icon }} wow bounceIn text-primary"></i>
                     <h3>{{ .title }}</h3>
-                    {{ with .description }}
+                    {{ with .button.link }}
                         <p class="text-muted">{{ . }}</p>
                     {{ end }}
                 </div>
