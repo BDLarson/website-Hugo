@@ -2,6 +2,7 @@
 <aside class="bg-dark">
     <div class="container text-center">
         <div class="call-to-action">
+            <i class="fa fa-4x {{ .icon }} wow bounceIn text-primary"></i>
             {{ with .Site.Params.aside.headline }}<h2>{{ . }}</h2>{{ end }}
             {{ if and .Site.Params.aside.button.link .Site.Params.aside.button.text }}
                 <a href="{{ .Site.Params.aside.button.link }}" class="btn btn-default btn-xl wow tada">{{ .Site.Params.aside.button.text }}</a>
