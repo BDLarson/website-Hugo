@@ -93,9 +93,9 @@ googleAnalytics = ""
 			text = "Visit my Github!"
 			link = "https://github.com/blake417"
 
-		[params.aside.button]
-			text = "Visit my LinkedIn!"
-			link = "https://www.linkedin.com/in/blake-d-larson/"
+		#[params.aside.button]
+			#text = "Visit my LinkedIn!"
+			#link = "https://www.linkedin.com/in/blake-d-larson/"
 
 
 	# Contact section
