@@ -60,27 +60,27 @@ googleAnalytics = ""
         [[params.services.list]]
             icon = "fa-github"
             #text = "Github"
-			title = "[Github](//github.com/blake417)"
-            #link = "https://github.com/blake417"
+			title = "Github"
+            link = "https://github.com/blake417"
 			#description = "Visit my Repos!"
 
         [[params.services.list]]
 			icon = "fa-linkedin-square"
 			#text = "LinkedIn"
-			title = "[LinkedIn](//https://www.linkedin.com/in/blake-d-larson/)"
-			#link = "https://www.linkedin.com/in/blake-d-larson/"
+			title = "LinkedIn"
+			link = "https://www.linkedin.com/in/blake-d-larson/"
 			#description = "Visit my Profile!"
 
 		[[params.services.list]]
             icon = "fa-youtube"
-            title = "[Youtube](//https://www.linkedin.com/in/blake-d-larson/)"
-			#link = "https://www.linkedin.com/in/blake-d-larson/"
+            title = "Youtube"
+			link = "https://www.linkedin.com/in/blake-d-larson/"
             #description = "Visit my Channel!"
 
         [[params.services.list]]
             icon = "fa-heart"
-			title = "[Love](//https://www.linkedin.com/in/blake-d-larson/)"
-			#link = "https://www.linkedin.com/in/blake-d-larson/"
+            title = "Love"
+			link = "https://www.linkedin.com/in/blake-d-larson/"
             #description = "Free Hugs!"
 
 
