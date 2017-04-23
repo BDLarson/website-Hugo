@@ -54,29 +54,29 @@ googleAnalytics = ""
 
 
 	# Service section
-	[params.services]
+	[params.media]
 		headline = "Visit my media!"
 
-        [[params.services.list]]
+        [[params.media.list]]
             icon = "fa-github"
             #text = "Github"
 			title = "Github"
             #link = "https://github.com/blake417"
 			description = "Visit my Repos!"
 
-        [[params.services.list]]
+        [[params.media.list]]
 			icon = "fa-linkedin-square"
 			#text = "LinkedIn"
 			title = "LinkedIn"
 			#link = "https://www.linkedin.com/in/blake-d-larson/"
 			description = "Visit my Profile!"
 
-		[[params.services.list]]
+		[[params.media.list]]
             icon = "fa-youtube"
             title = "Youtube"
             description = "Visit my Channel!"
 
-        [[params.services.list]]
+        [[params.media.list]]
             icon = "fa-heart"
             title = "Love"
             description = "Free Hugs!"
