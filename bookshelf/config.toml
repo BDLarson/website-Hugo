@@ -59,7 +59,7 @@ googleAnalytics = ""
 
         [[params.services.list]]
             icon = "fa-github"
-            title = "Github"
+            text = "Github"
             description = "https://github.com/blake417"
 
 
