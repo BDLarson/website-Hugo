@@ -55,7 +55,7 @@ googleAnalytics = ""
 
 	# Service section
 	[params.services]
-		headline = "At your service"
+		headline = "Visit my media!"
 
         [[params.services.list]]
             icon = "fa-github"
