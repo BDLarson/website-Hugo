@@ -5,9 +5,10 @@
             <head>
                 <style>
                     h1{
+                        <font face="Verdana">Verdana</font>
                         color: #331A00;
                     }
-                    h3{
+                    h4{
                         color: #331A00;
                     }
                 </style>
@@ -19,7 +20,7 @@
                 <hr>
             {{ end }}
             {{ with .Site.Params.hero.subtitle }}
-                <h3>{{ . | markdownify }}</h3>
+                <h4>{{ . | markdownify }}</h4>
             {{ end }}
             {{ with .Site.Params.hero.buttonText }}
                 <a href="#about" class="btn btn-primary btn-xl page-scroll">{{ . }}</a>
