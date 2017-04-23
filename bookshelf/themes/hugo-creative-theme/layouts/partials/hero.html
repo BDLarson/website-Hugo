@@ -2,14 +2,16 @@
 <header>
     <div class="header-content">
         <div class="header-content-inner">
-            <style>
-                h1{
-                    color: #FFFFFF;
-                }
-                hr{
-                    color: #FFFFFF;
-                }
-            </style>
+            <head>
+                <style>
+                    h1{
+                        color: black;
+                    }
+                    hr{
+                        color: black;
+                    }
+                </style>
+            </head>
             {{ with .Site.Params.hero.slogan }}
                 <h1>{{ . | markdownify  }}</h1>
             {{ end }}
