@@ -17,7 +17,6 @@
                 <div class="service-box">
                     <div class="call-to-action">
                         <i class="fa fa-4x {{ .icon }} wow bounceIn text-primary"></i>
-                        <h3>{{ .text }}</h3>
                         {{ if and .Site.Params.services.button.link .Site.Params.services.button.text }}
                             <a href="{{ .Site.Params.services.button.link }}" class="btn btn-default btn-xl wow tada">{{ .Site.Params.services.button.text }}</a>
                         {{ end }}
