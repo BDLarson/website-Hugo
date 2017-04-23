@@ -94,7 +94,6 @@ googleAnalytics = ""
 		headline = "Check out my services!"
 
 		[params.aside.button]
-			icon = "fa-heart"
 			text = "Visit my Github!"
 			link = "https://github.com/blake417"
 
