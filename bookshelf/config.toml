@@ -61,15 +61,15 @@ googleAnalytics = ""
             icon = "fa-github"
             #text = "Github"
 			title = "Github"
-            link = "https://github.com/blake417"
-			#description = "Blah Blah"
+            #link = "https://github.com/blake417"
+			description = "Blah Blah"
 
         [[params.services.list]]
 			icon = "fa-linkedin-square"
 			#text = "LinkedIn"
 			title = "LinkedIn"
-			link = "https://www.linkedin.com/in/blake-d-larson/"
-			#description = "Blah Blah"
+			#link = "https://www.linkedin.com/in/blake-d-larson/"
+			description = "Blah Blah"
 
 		[[params.services.list]]
             icon = "fa-newspaper-o"
