@@ -33,7 +33,7 @@ googleAnalytics = ""
 
 		[params.navigation.links]
 			about     = "About"
-			media     = "Media"
+			services  = "services"
 			portfolio = "Portfolio"
 			contact   = "Contact"
 
@@ -54,29 +54,29 @@ googleAnalytics = ""
 
 
 	# Service section
-	[params.media]
-		headline = "Visit my media!"
+	[params.services]
+		headline = "Visit my services!"
 
-        [[params.media.list]]
+        [[params.services.list]]
             icon = "fa-github"
             #text = "Github"
 			title = "Github"
             #link = "https://github.com/blake417"
 			description = "Visit my Repos!"
 
-        [[params.media.list]]
+        [[params.services.list]]
 			icon = "fa-linkedin-square"
 			#text = "LinkedIn"
 			title = "LinkedIn"
 			#link = "https://www.linkedin.com/in/blake-d-larson/"
 			description = "Visit my Profile!"
 
-		[[params.media.list]]
+		[[params.services.list]]
             icon = "fa-youtube"
             title = "Youtube"
             description = "Visit my Channel!"
 
-        [[params.media.list]]
+        [[params.services.list]]
             icon = "fa-heart"
             title = "Love"
             description = "Free Hugs!"
@@ -91,7 +91,7 @@ googleAnalytics = ""
 
     # Aside section
 	[params.aside]
-		headline = "Check out my media!"
+		headline = "Check out my services!"
 
 		[params.aside.button]
 			text = "Visit my Github!"
