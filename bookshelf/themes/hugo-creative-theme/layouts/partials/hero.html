@@ -4,7 +4,7 @@
         <div class="header-content-inner">
             <head>
                 <style>
-                    h1{
+                    h2{
                         color: #331A00;
                         font-family: Times New Roman;
                     }
@@ -15,7 +15,7 @@
                 </style>
             </head>
             {{ with .Site.Params.hero.slogan }}
-                <h1>{{ . | markdownify  }}</h1>
+                <h2>{{ . | markdownify  }}</h2>
             {{ end }}
             {{ if and .Site.Params.hero.slogan .Site.Params.hero.subtitle }}
                 <hr>

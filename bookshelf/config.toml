@@ -50,7 +50,7 @@ googleAnalytics = ""
 	[params.about]
 		headline    = "A little about me."
 		description = "TODO"
-		buttonText  = "Continue"
+		buttonText  = "Back to top!"
 
 
 	# Service section
@@ -82,18 +82,22 @@ googleAnalytics = ""
 
     # Aside section
 	[params.aside]
-		headline = "TODO headline"
+		headline = "Check out my services!"
 
 		[params.aside.button]
-			text = "TODO"
+			text = "TODO Headline"
 			link = ""
+
+		#[params.aside.button]
+			#text = "Visit my LinkedIn!"
+			#link = "https://www.linkedin.com/in/blake-d-larson/"
 
 
 	# Contact section
 	[params.contact]
-		headline = "Want to get in touch?"
+		headline = "Questions or Inquires?"
 		description = "TODO"
-		resume = "TODO"
+		phone = "(253) 370-1686"
 		email = "blake7@hawaii.edu"
 
 	# Google Maps section
