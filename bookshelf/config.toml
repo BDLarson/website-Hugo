@@ -71,7 +71,7 @@ googleAnalytics = ""
 		[[params.services.list]]
             icon = "fa-youtube"
             title = "Youtube"
-			link = "https://www.youtube.com/channel/UCI6rN_jlvkXZqYEoo8aXFGA"
+			link = "https://www.youtube.com/channel/UC5PpopXS7bT0TYnkENkvgDA"
 
     # Portfolio modals
 	[params.portfolio.modal]
