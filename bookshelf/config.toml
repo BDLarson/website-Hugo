@@ -97,8 +97,8 @@ googleAnalytics = ""
 	[params.contact]
 		headline = "Questions or Inquires?"
 		description = "TODO"
-		phone = "(253) 370-1686"
-		email = "blake7@hawaii.edu"
+		phone = "~Number~"
+		email = "~Email~"
 
 	# Google Maps section
 	# [params.location]
